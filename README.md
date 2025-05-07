@@ -8,14 +8,12 @@ and **rainy seasons**. Additionally, the project breaks down casualties by **roa
 **specific locations**, and **vehicle types** under **dry**, **snow-covered**, and **wet** road conditions.
 
 ## Dataset used
-<a href=""></a>
+<a href="https://github.com/VrajPachchigar/Accident-Analysis-Dashboard/blob/main/Road%20Accident%20Data.xlsx">Road accident dataset</a>
 
 ## 🛠 Tools Used
 
 - **Microsoft Excel** – Data cleaning, transformation, and initial preprocessing  
 - **Power BI** – Data modeling, visualization, and interactive dashboard creation
-
----
 
 ## 📌 Key KPIs Generated
 
@@ -28,8 +26,6 @@ and **rainy seasons**. Additionally, the project breaks down casualties by **roa
 - Casualties by Urban vs. Rural Area  
 - Casualties by Location  
 - Casualties by Vehicle Type
-
----
 
 ## ⚙️ KPI Generation Process
 
@@ -50,8 +46,10 @@ and **rainy seasons**. Additionally, the project breaks down casualties by **roa
    - Developed visual representations for each KPI  
    - Incorporated filters for seasons, road conditions, and regions  
    - Enabled drill-downs for detailed location and vehicle-type analysis
+  
+## Dashboard Visual
+![Accident Dashboard](https://github.com/user-attachments/assets/f162303f-db14-4aca-b0e6-d940de5ca4e6)
 
----
 
 ## 💡 Project Insights
 
@@ -60,8 +58,6 @@ and **rainy seasons**. Additionally, the project breaks down casualties by **roa
 - Casualties were significantly higher on **urban dry roads** due to greater traffic density.  
 - **Wet roads** saw more casualties involving **two-wheelers and passenger vehicles**, especially in urban areas.  
 - **Rural snow roads** had the highest fatality rate per accident, despite fewer total incidents.
-
----
 
 ## ✅ Final Conclusion
 
